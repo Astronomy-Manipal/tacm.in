@@ -1,0 +1,232 @@
+[
+  {
+    "cat": "Galaxy",
+    "title": "Andromeda",
+    "date": "Oct 13, 2026",
+    "src": "/images/gallery/Galaxy/Andromeda.jpg",
+    "thumb": "/images/gallery-thumbs/Galaxy/Andromeda.webp",
+    "id": 1,
+    "content": "Siddharth.S \nTaken through Celestron RASA \nExposure: 120s\nRA: 00h 42m 44.3s\nDEC: +41° 16′ 9″",
+    "large": "/images/gallery-large/Galaxy/Andromeda.webp"
+  },
+  {
+    "cat": "Galaxy",
+    "title": "Cigar Galaxy",
+    "date": "Oct 13, 2026",
+    "src": "/images/gallery/Galaxy/CigarGalaxy.jpg",
+    "thumb": "/images/gallery-thumbs/Galaxy/CigarGalaxy.webp",
+    "id": 2,
+    "content": "Siddharth.S \nTaken through Celestron RASA \n Exposure: 120s\nRA: 00h 42m 44.3s\nDEC: +41° 16′ 9″",
+    "large": "/images/gallery-large/Galaxy/CigarGalaxy.webp"
+  },
+  {
+    "cat": "Moon",
+    "title": "Moon",
+    "date": "July, 2021",
+    "src": "/images/gallery/Moon/khushi-moon.jpeg",
+    "thumb": "/images/gallery-thumbs/Moon/khushi-moon.webp",
+    "id": 3,
+    "content": "Khushi Agarwal \nAstromaster LT 70 AZ \nShot on OnePlus Nord CE 2 Lite",
+    "large": "/images/gallery-large/Moon/khushi-moon.webp"
+  },
+  {
+    "cat": "Galaxy",
+    "title": "Galaxy",
+    "date": "Oct 14, 2026",
+    "src": "/images/gallery/Galaxy/galaxy.jpg",
+    "thumb": "/images/gallery-thumbs/Galaxy/galaxy.webp",
+    "id": 4,
+    "content": "Siddharth.S \nTaken through Celestron RASA \n Exposure: 120s\nRA: 00h 42m 44.3s\nDEC: +41° 16′ 9″",
+    "large": "/images/gallery-large/Galaxy/galaxy.webp"
+  },
+  {
+    "cat": "Galaxy",
+    "title": "Leo Trio of Galaxies",
+    "date": "Oct 13, 2026",
+    "src": "/images/gallery/Galaxy/Leotrio.jpg",
+    "thumb": "/images/gallery-thumbs/Galaxy/Leotrio.webp",
+    "id": 5,
+    "content": "Siddharth.S \nTaken through Celestron RASA \n Exposure: 120s\nRA: 00h 42m 44.3s\nDEC: +41° 16′ 9″",
+    "large": "/images/gallery-large/Galaxy/Leotrio.webp"
+  },
+  {
+    "cat": "Planet",
+    "title": "Jupiter",
+    "date": "Oct 15, 2026",
+    "src": "/images/gallery/Planet/rishit-jupiter.jpeg",
+    "thumb": "/images/gallery-thumbs/Planet/rishit-jupiter.webp",
+    "id": 6,
+    "content": "Rishit Agarwal\n8 inches Newtonian Telescope\nDEC: -27° 59′ 10.9″",
+    "large": "/images/gallery-large/Planet/rishit-jupiter.webp"
+  },
+  {
+    "cat": "Planet",
+    "title": "Mars",
+    "date": "Oct 15, 2026",
+    "src": "/images/gallery/Planet/rishit-mars.jpeg",
+    "thumb": "/images/gallery-thumbs/Planet/rishit-mars.webp",
+    "id": 7,
+    "content": "Rishit Agarwal\n8 inches Newtonian Telescope\nDEC: -27° 59′ 10.9″",
+    "large": "/images/gallery-large/Planet/rishit-mars.webp"
+  },
+  {
+    "cat": "Moon",
+    "title": "Moon",
+    "date": "Oct 13, 2026",
+    "src": "/images/gallery/Moon/Moon.jpeg",
+    "thumb": "/images/gallery-thumbs/Moon/Moon.webp",
+    "id": 8,
+    "content": "Siddharth.S \nTaken through Celestron RASA \n Exposure: 120s\nRA: 00h 42m 44.3s\nDEC: +41° 16′ 9″",
+    "large": "/images/gallery-large/Moon/Moon.webp"
+  },
+  {
+    "cat": "Moon",
+    "title": "Moon",
+    "date": "Jun 29, 2025",
+    "src": "/images/gallery/Moon/rishit-moon.jpeg",
+    "thumb": "/images/gallery-thumbs/Moon/rishit-moon.webp",
+    "id": 9,
+    "content": "Rishit Agarwal \n8 inches Newtonian Telescope \nDEC: -27° 59′ 10.9″",
+    "large": "/images/gallery-large/Moon/rishit-moon.webp"
+  },
+  {
+    "cat": "Nebula",
+    "title": "Butterfly Nebula",
+    "date": "Oct 13, 2026",
+    "src": "/images/gallery/Nebula/ButterflyNebula.jpg",
+    "thumb": "/images/gallery-thumbs/Nebula/ButterflyNebula.webp",
+    "id": 10,
+    "content": "Siddharth.S \nTaken through Celestron RASA \n Exposure: 120s\nRA: 00h 42m 44.3s\nDEC: +41° 16′ 9″",
+    "large": "/images/gallery-large/Nebula/ButterflyNebula.webp"
+  },
+  {
+    "cat": "Nebula",
+    "title": "Eagle Nebula",
+    "date": "Oct 13, 2026",
+    "src": "/images/gallery/Nebula/EagleNebula.jpeg",
+    "thumb": "/images/gallery-thumbs/Nebula/EagleNebula.webp",
+    "id": 11,
+    "content": "Siddharth.S \nTaken through Celestron RASA \n Exposure: 120s\nRA: 00h 42m 44.3s\nDEC: +41° 16′ 9″",
+    "large": "/images/gallery-large/Nebula/EagleNebula.webp"
+  },
+  {
+    "cat": "Nebula",
+    "title": "Helix Nebula",
+    "date": "Oct 13, 2026",
+    "src": "/images/gallery/Nebula/helix.jpg",
+    "thumb": "/images/gallery-thumbs/Nebula/helix.webp",
+    "id": 12,
+    "content": "Siddharth.S \nTaken through Celestron RASA \n Exposure: 120s\nRA: 00h 42m 44.3s\nDEC: +41° 16′ 9″",
+    "large": "/images/gallery-large/Nebula/helix.webp"
+  },
+  {
+    "cat": "Nebula",
+    "title": "Orion Nebula",
+    "date": "Oct 13, 2026",
+    "src": "/images/gallery/Nebula/Orion.png",
+    "thumb": "/images/gallery-thumbs/Nebula/Orion.webp",
+    "id": 13,
+    "content": "Siddharth.S \nTaken through Celestron RASA \n Exposure: 120s\nRA: 00h 42m 44.3s\nDEC: +41° 16′ 9″",
+    "large": "/images/gallery-large/Nebula/Orion.webp"
+  },
+  {
+    "cat": "Nebula",
+    "title": "Rosette Nebula",
+    "date": "Oct 13, 2026",
+    "src": "/images/gallery/Nebula/Rosette.jpeg",
+    "thumb": "/images/gallery-thumbs/Nebula/Rosette.webp",
+    "id": 14,
+    "content": "Siddharth.S \nTaken through Celestron RASA \n Exposure: 120s\nRA: 00h 42m 44.3s\nDEC: +41° 16′ 9″",
+    "large": "/images/gallery-large/Nebula/Rosette.webp"
+  },
+  {
+    "cat": "Planet",
+    "title": "Evening Star, Venus",
+    "date": "31st August",
+    "src": "/images/gallery/Planet/rajeshree-sharma-venus.jpeg",
+    "thumb": "/images/gallery-thumbs/Planet/rajeshree-sharma-venus.webp",
+    "id": 15,
+    "content": "Rajeshree Sharma\nSamsung A17",
+    "large": "/images/gallery-large/Planet/rajeshree-sharma-venus.webp"
+  },
+  {
+    "cat": "Night Sky",
+    "title": "Night Sky",
+    "date": "18th January, 2026",
+    "src": "/images/gallery/Night%20Sky/dhruv-gahlawat-nightsky.jpeg",
+    "thumb": "/images/gallery-thumbs/Night%20Sky/dhruv-gahlawat-nightsky.webp",
+    "id": 16,
+    "content": "Dhruv Gahlawat\nGalaxy S23\nShot on Galaxy S23",
+    "large": "/images/gallery-large/Moon/dhruv-gahlawat-nightsky.webp"
+  },
+  {
+    "cat": "Moon",
+    "title": "Moon",
+    "date": "16th October, 2026",
+    "src": "/images/gallery/Moon/aryan-singh-moon.jpeg",
+    "thumb": "/images/gallery-thumbs/Moon/aryan-singh-moon.webp",
+    "id": 17,
+    "content": "Aryan Singh\nSamsung S25 Ultra\nMoon",
+    "large": "/images/gallery-large/Moon/aryan-singh-moon.webp"
+  },
+  {
+    "cat": "Moon",
+    "title": "Moon",
+    "date": "28th February, 2026",
+    "src": "/images/gallery/Moon/aditya-patil-moon.jpeg",
+    "thumb": "/images/gallery-thumbs/Moon/aditya-patil-moon.webp",
+    "id": 18,
+    "content": "Aaditya Patil\nMoon",
+    "large": "/images/gallery-large/Moon/aditya-patil-moon.webp"
+  },
+  {
+    "cat": "Night Sky",
+    "title": "Railway Bridge",
+    "date": "Oct 13, 2026",
+    "src": "/images/gallery/Night%20Sky/Railwaybridge.jpg",
+    "thumb": "/images/gallery-thumbs/Night%20Sky/Railwaybridge.webp",
+    "id": 19,
+    "content": "Siddharth.S \n Exposure: 120s\nRA: 00h 42m 44.3s\nDEC: +41° 16′ 9″",
+    "large": "/images/gallery-large/Night%20Sky/Railwaybridge.webp"
+  },
+  {
+    "cat": "Planet",
+    "title": "Saturn",
+    "date": "Oct 15, 2026",
+    "src": "/images/gallery/Planet/rishit-saturn.jpeg",
+    "thumb": "/images/gallery-thumbs/Planet/rishit-saturn.webp",
+    "id": 20,
+    "content": "Rishit Agarwal\n8 inches Newtonian Telescope\nDEC: -27° 59′ 10.9″",
+    "large": "/images/gallery-large/Planet/rishit-saturn.webp"
+  },
+  {
+    "cat": "Planet",
+    "title": "Saturn",
+    "date": "Oct 13, 2026",
+    "src": "/images/gallery/Planet/Saturn.png",
+    "thumb": "/images/gallery-thumbs/Planet/Saturn.webp",
+    "id": 21,
+    "content": "Siddharth.S \nTaken through Celestron RASA \n Exposure: 120s\nRA: 00h 42m 44.3s\nDEC: +41° 16′ 9″",
+    "large": "/images/gallery-large/Planet/Saturn.webp"
+  },
+  {
+    "cat": "Night Sky",
+    "title": "Night Sky",
+    "date": "Oct 16, 2026",
+    "src": "/images/gallery/Night%20Sky/lakshmi-nightsky.jpeg",
+    "thumb": "/images/gallery-thumbs/Night%20Sky/lakshmi-nightsky.webp",
+    "id": 26,
+    "content": "Lakshmi \nNight Sky",
+    "large": "/images/gallery-large/Night%20Sky/lakshmi-nightsky.webp"
+  },
+  {
+    "cat": "Star Cluster",
+    "title": "Satellite Cluster",
+    "date": "Oct 13, 2026",
+    "src": "/images/gallery/Star%20Cluster/SatelliteCluster.jpg",
+    "thumb": "/images/gallery-thumbs/Star%20Cluster/SatelliteCluster.webp",
+    "id": 22,
+    "content": "Siddharth.S \nTaken through Celestron RASA \n Exposure: 120s\nRA: 00h 42m 44.3s\nDEC: +41° 16′ 9″",
+    "large": "/images/gallery-large/Star%20Cluster/SatelliteCluster.webp"
+  }
+]

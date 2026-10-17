@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.vscode/
+tacm.zip
+.env
+.env.*
+!.env.example
